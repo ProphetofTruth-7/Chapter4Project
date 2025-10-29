@@ -1,4 +1,4 @@
-// Main Branch
+// Months and Days Subproject
 
 #include <iostream>
 using namespace std;
